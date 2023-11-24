@@ -1,0 +1,31 @@
+.cart-container{
+    background-color: antiquewhite;
+    padding: 20px;
+}
+.cart-container h1{
+    font-size: 25px;
+    font-weight: 600;
+}
+
+
+.orange{
+    background-color: orange;
+}
+.red{
+    background-color: red;
+}
+.black{
+    background-color: black;
+    color: white;
+}
+.purple{
+    background-color: purple;
+    color: white;
+}
+.green{
+    background-color: green;
+    color: white;
+}
+.bold{
+    font-weight: bold;
+}
